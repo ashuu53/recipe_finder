@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:recipe_finder/view/home.dart';
 
 
-
 void main() {
   runApp(MyApp());
 }
